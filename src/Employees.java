@@ -1,5 +1,5 @@
 public class Employees {
-    // na poczatku definiujemy zmienne
+    // na poczatku definiujemy zmienne - raczej to sa pola a nie zmienne
     String firstName;
     String lastName;
     byte age;
