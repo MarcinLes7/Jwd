@@ -6,6 +6,8 @@ public class HelloWorld {
         System.out.println("terefere");
         System.out.println("nowa funkcjonalność");
         System.out.println("trzeba jeszcze coś poprawić");
+        System.out.println("dodatkowa poprawa");
+            
 
    }
 }
